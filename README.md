@@ -1,4 +1,4 @@
-# AI-Balancer
+# Cloudflare Free Load Balancer
 
 Este projeto é um sistema de monitoramento de servidores baseado em Node.js. Ele verifica a saúde dos servidores registrados na Cloudflare, enviando alertas via Telegram caso um servidor esteja offline e removendo-o do balanceador de carga automaticamente.
 
